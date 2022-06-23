@@ -1,8 +1,11 @@
 # CS250-Software-Development-Lifecycles
 
 •	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
 •	How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
 •	What does it mean to be a good team member in software development?
+
 
 I interpret user needs first by creating user stories and that break down the wants and needs of the users. Creating a user story could be said as an interpretation of user needs as it describes what the user needs plainly for everyone to understand what they need and why thy need it. Creating user stories also helps for the same reasons, as it gives what the need is and why they need it which helps in creating the program as the reasons behind why they need it might changes some aspect of how it is implemented to be more beneficial to the user. It can also help in prioritizing what needs to be implemented first by how needed or required a user story is to the project or another part of the project.
 
